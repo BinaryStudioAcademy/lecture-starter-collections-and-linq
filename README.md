@@ -1,0 +1,1 @@
+# bsa-dotnet-collections-and-linq-template
