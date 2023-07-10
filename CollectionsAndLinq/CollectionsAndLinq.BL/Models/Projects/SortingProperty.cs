@@ -5,9 +5,9 @@ public enum SortingProperty
     Name,
     Description,
     Deadline,
-    CteatedAt,
+    CreatedAt,
     TasksCount,
-    AutorFirstName,
-    AutorLastName,
+    AuthorFirstName,
+    AuthorLastName,
     TeamName
 }

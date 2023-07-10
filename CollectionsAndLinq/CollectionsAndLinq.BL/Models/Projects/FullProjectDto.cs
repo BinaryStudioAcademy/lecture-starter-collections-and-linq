@@ -10,7 +10,7 @@ public record FullProjectDto(
     string Description,
     DateTime CreatedAt,
     DateTime Deadline,
-    List<TaskWithPerfomerDto> Tasks,
+    List<TaskWithPerformerDto> Tasks,
     UserDto Author,
     TeamDto Team)
 {

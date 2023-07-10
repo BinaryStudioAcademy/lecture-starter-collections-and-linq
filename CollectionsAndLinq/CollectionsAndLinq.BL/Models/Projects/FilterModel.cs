@@ -3,8 +3,8 @@
 public record FilterModel(
     string Name = null,
     string Description = null,
-    string AutorFirstName = null,
-    string AutorLastName = null,
+    string AuthorFirstName = null,
+    string AuthorLastName = null,
     string TeamName = null)
 {
 

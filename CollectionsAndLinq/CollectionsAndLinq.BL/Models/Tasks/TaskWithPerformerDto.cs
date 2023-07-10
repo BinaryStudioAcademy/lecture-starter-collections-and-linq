@@ -2,14 +2,14 @@
 
 namespace CollectionsAndLinq.BL.Models.Tasks;
 
-public record TaskWithPerfomerDto(
+public record TaskWithPerformerDto(
     int Id,
     string Name,
     string Description,
     string State,
     DateTime CreatedAt,
     DateTime? FinishedAt,
-    UserDto Perfomer)
+    UserDto Performer)
 {
 
 }
